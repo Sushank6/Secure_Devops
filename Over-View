@@ -1,0 +1,87 @@
+	1) Major Topics :
+
+-> SLDC Mechanism 
+
+-> Basics of Devops Principals 
+    CI/CD concepts, and the importance of security in DevOps.
+
+ -> IAC 
+
+-> Devsecops 
+
+• CI/CD pipelines and understand the importance of integrating security.
+
+• common vulnerabilities in software development.
+
+
+2) 	-> Simple Web application
+        (Flask Web Application)
+
+
+-> Microservices Architecture 
+    (Containerized Service)
+
+What is Containerization?
+Docker ? Host Sytem 
+Kernel?
+
+
+-> Complex project 
+     (use of Kubernetes) 
+
+
+Linux Commands 
+
+
+
+TOOLS:
+
+	1) Git Hub Commands 
+
+
+	2) DOCKER 
+(Basic , why we use ,
+Basic Commands )
+
+Docker Image (imp)
+
+
+
+3) Clone a source code Repository 
+	 
+	From Internet? 
+	
+	Small appl -> Github or gitlab 
+	
+	-> Deploy to online deployement platforms 
+	
+	
+	Containerization appl -> Docker 
+	
+	
+	Tools:
+
+• Static Analysis: SonarQube, CodeQL
+
+• Dynamic Analysis: OWASP ZAP
+
+• Container Scanning: Trivy, Aqua Security
+
+• Dependency Scanning: Snyk, Dependabot
+
+Choose and configure a CI/CD tool : 
+
+4) 	4) CI/CD Stages :
+
+       Code Review  -> 
+       Build Stage   -> 
+       Test Stage 
+        Deploy Stage 
+
+
+5) Vulnerability Detection tools:
+
+
+6) Static and Dynamic Security Testing
+
+
