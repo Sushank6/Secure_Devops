@@ -92,6 +92,11 @@ pipeline {
                 }
             }
         }
+        stage('Install Dependencies') {
+            steps {
+                sh 'npm install' // Ensure node_modules is present
+            }
+        }
         
         stage("Docker: Build Images"){
             steps{
