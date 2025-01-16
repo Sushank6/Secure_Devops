@@ -10,7 +10,6 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 ### In this demo, we will see how to deploy an end to end three tier MERN stack application on EKS cluster.
 #
 ### <mark>Project Deployment Flow:</mark>
-<img src="https://github.com/DevMadhup/Wanderlust-Mega-Project/blob/main/Assets/DevSecOps%2BGitOps.gif" />
 <img src="https://github.com/Sushank6/Secure_Devops/blob/master/Assets/DevSecOps%2BGitOps.gif"/>
 #
 
@@ -29,6 +28,7 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 ### How pipeline will look after deployment:
 - <b>CI pipeline to build and push</b>
 ![image](https://github.com/user-attachments/assets/20542d8b-0701-43ed-b2f8-82f8ed28d053)
+![image](https://github.com/Sushank6/Secure_Devops/blob/master/Assets/CI-Pipeline.png)
 
 - <b>CD pipeline to update application version</b>
 ![image](https://github.com/user-attachments/assets/8fd13807-622e-45f7-af23-dcc1ba30ca5d)
