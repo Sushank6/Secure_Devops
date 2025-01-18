@@ -191,7 +191,7 @@ sudo apt-get install jenkins -y
     - <b>Availability:</b> Keep this agent online as much as possible
 #
   - And your jenkins worker node is added
-  ![image](https://github.com/user-attachments/assets/cab93696-a4e2-4501-b164-8287d7077eef)
+  
 
 
 #
@@ -299,7 +299,7 @@ sudo apt-get install trivy -y
   - Pipeline: Stage View
 #
 - <b id="Owasp">Configure OWASP, move to <mark>Manage Jenkins --> Plugins --> Available plugins</mark> (Jenkins Worker)</b>
-![image](https://github.com/user-attachments/assets/da6a26d3-f742-4ea8-86b7-107b1650a7c2)
+![image](https://github.com/Sushank6/Secure_Devops/blob/master/Assets/plugins.png)
 
 - <b id="Sonar">After OWASP plugin is installed, Now move to <mark>Manage jenkins --> Tools</mark> (Jenkins Worker)</b>
 ![image](https://github.com/Sushank6/Secure_Devops/blob/master/Assets/owsap1.png)
@@ -401,8 +401,8 @@ chmod 777 /var/run/docker.sock
 
 
 - <b>Congratulations, your application is deployed on AWS EKS Cluster</b>
-![image](http://github.com/Sushank6/Secure_Devops/blob/master/Assets/argo4.png)
-![image](https://github.com/user-attachments/assets/1ea9d486-656e-40f1-804d-2651efb54cf6)
+![image](https://github.com/Sushank6/Secure_Devops/blob/master/Assets/argo4.png)
+
 - <b>Open port 31000 and 31100 on worker node and Access it on browser</b>
 ```bash
 <worker-public-ip>:31000
